@@ -1,4 +1,4 @@
-# Gauss-LU-Decomposition-
+# Gauss-LU-Decomposition
 利用LU分解求解线性方程组
 
 这里的选主元的方式是高斯列选主元法，对于每一列，选择最大的元素作为主元。
